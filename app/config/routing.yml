@@ -1,0 +1,5 @@
+event_program_guide:
+    resource: "@EventProgramGuideBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
